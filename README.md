@@ -1,11 +1,6 @@
 <h1 align="center">Welcome To My Github Profile</h1>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/the-psycoder/count.svg?"  />
-</div>
-
 ###
 
 ![339268235_163465966282604_656512319685628854_n](https://github.com/the-psycoder/the-psycoder/assets/140235168/ab8d876d-2830-4dde-9338-8e915c8cced6)
@@ -50,7 +45,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.facebook.com/psyman.one" target="_blank">
+  <a href="https://www.facebook.com/imanoverthinker21" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
