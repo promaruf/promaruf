@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/imanoverthinkerfr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
 
