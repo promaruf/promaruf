@@ -1,4 +1,4 @@
-<h1 align="center">Welcome To My Github Profile</h1>
+<h1 align="center">Welcome To My Github Profile <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 
 ###
 ###
@@ -40,14 +40,23 @@
 
 ###
 
-<h1 align="center">Social</h1>
+<h1 align="center">Get In Touch</h1>
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/imanoverthinkerfr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/imanoverthinkerfr" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/promaruf" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
