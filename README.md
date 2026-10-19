@@ -44,7 +44,7 @@
 
 ###
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td>
       <a href="https://www.facebook.com/promaruf.fb" target="_blank">
