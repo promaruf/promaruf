@@ -47,13 +47,13 @@
 <table align="center" border="0">
   <tr>
     <td>
-      <a href="https://www.instagram.com/imanoverthinkerfr" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
+      <a href="https://www.facebook.com/promaruf.fb" target="_blank">
+        <img width="52" height="52" alt="Facebook" src="https://github.com/user-attachments/assets/b742a04b-a71e-46aa-b3c0-fc637de7fafd" />
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/promaruf" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+      <a href="https://www.instagram.com/promaruf.ig" target="_blank">
+        <img width="52" height="52" alt="image" src="https://github.com/user-attachments/assets/005c9855-aac4-4723-9a12-33ee77f6e3bb" />
       </a>
     </td>
   </tr>
