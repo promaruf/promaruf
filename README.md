@@ -196,14 +196,7 @@ Good music, time with family and friends, and discovering new places.
 
 <hr>
 
-## `07` — Education
-
-- **SSC** — Tamirul Millat Kamil Madrasah
-- **HSC** — Gazipur Cantonment Public School & College
-
-<hr>
-
-## `08` — Find Me Online
+## `07` — Find Me Online
 
 <div align="center">
 
