@@ -4,9 +4,7 @@
 
 # MARUF HASAN
 
-<div align="center">
-
-</div>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=promaruf&right_color=lightgrey&format=true&logo=github)
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=15&duration=2000&pause=1000&color=BDBDBD&center=true&vCenter=true&width=500&lines=WEB+DEVELOPER+%C2%B7+GRAPHICS+DESIGNER+%C2%B7+PROGRAMER;VIDEO+EDITOR+%C2%B7+AI+ENGINEER" alt="Introduction"/>
 
